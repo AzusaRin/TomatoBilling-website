@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//azusarin.github.io/TomatoBilling-website/static/css/main.755f2b14.css",
+    "main.js": "//azusarin.github.io/TomatoBilling-website/static/js/main.8543d783.js",
+    "static/js/529.f34682d5.chunk.js": "//azusarin.github.io/TomatoBilling-website/static/js/529.f34682d5.chunk.js",
+    "index.html": "//azusarin.github.io/TomatoBilling-website/index.html",
+    "main.755f2b14.css.map": "//azusarin.github.io/TomatoBilling-website/static/css/main.755f2b14.css.map",
+    "main.8543d783.js.map": "//azusarin.github.io/TomatoBilling-website/static/js/main.8543d783.js.map",
+    "529.f34682d5.chunk.js.map": "//azusarin.github.io/TomatoBilling-website/static/js/529.f34682d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.755f2b14.css",
+    "static/js/main.8543d783.js"
+  ]
+}
